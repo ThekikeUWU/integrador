@@ -16,7 +16,7 @@ const App = () => {
 
   return (
     <SafeAreaView>
-    <Text>Hola mundo</Text>
+    <Text>Hola mundo desde git</Text>
     </SafeAreaView>
   );
 };
